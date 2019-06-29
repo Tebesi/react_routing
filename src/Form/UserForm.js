@@ -9,7 +9,7 @@ export class UserForm extends Component {
         step: 1,
         firstName: "",
         lastName: "",
-        age: "",
+        age: null,
         email: "",
         school: "",
         schoolYear: "",
